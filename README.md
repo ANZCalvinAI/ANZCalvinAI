@@ -1,7 +1,7 @@
-- 👋 Hi, I’m studio @ANZCalvinAI.
+- 👋 Hi, I’m an Australian studio @CalvinAI.
 - 👀 I’m interested in machine learning and artificial intelligence.
-- 🌱 I’m currently doing projects in computer science.
-- 💞️ I’m looking to collaborate on AI related projects.
+- 🌱 I’m currently doing computer science projects.
+- 💞️ I’m looking to collaborate on applied AI related projects.
 - 📫 Please feel free to reach me via messages.
 
 <!---
